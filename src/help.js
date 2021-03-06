@@ -1,15 +1,12 @@
 const help = (prefix, pushname, botname, oname) => {
 	return `
-  「 *Toin Bot* 」
-  Oiin
+  「 *GZR Bot* 」
+  Salveee
   
   ◪ *INFORMAÇÕES*
     ❏ Prefix: 「  ${prefix}  」
-    ❏ Criador: Toin
-    ❏ Numero do meu criador: https://wa.me/5562996638900
-    ❏ Grupo do Bot: https://chat.whatsapp.com/CLRNnixaxwM6l73bj3fPke
-    ❏ Grupo do dono do Bot: https://chat.whatsapp.com/I8Pdhhuuxg0BiMuwIhbKJK
-    ❏ Como instalar o Bot Passo a Passo: https://youtu.be/4cjhlXo9aGo
+    ❏ Criador: GZR
+    ❏ Numero do meu criador: https://wa.me/5585991922205
     Outros Menus
     ❏${prefix}nsfwmenu
     ❏${prefix}menuadmin
